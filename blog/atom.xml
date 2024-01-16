@@ -7,6 +7,7 @@
     <link rel="alternate" href="https://jen-drakoj.github.io/blog"/>
     <subtitle>Jen Drakoj Blog</subtitle>
     <icon>https://jen-drakoj.github.io/img/favicon.ico</icon>
+    <rights>Copyright © 2024 Jen Drakoj</rights>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
         <id>https://jen-drakoj.github.io/blog/welcome</id>
