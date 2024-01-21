@@ -1,35 +1,66 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jen-drakoj.github.io/blog</id>
-    <title>The Unspeakable Paradox Blog</title>
-    <updated>2024-01-01T00:00:00.000Z</updated>
+    <title>The Chronicles of Jen Blog</title>
+    <updated>2024-01-21T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jen-drakoj.github.io/blog"/>
-    <subtitle>The Unspeakable Paradox Blog</subtitle>
+    <subtitle>The Chronicles of Jen Blog</subtitle>
     <icon>https://jen-drakoj.github.io/img/favicon.ico</icon>
     <rights>© 2024</rights>
     <entry>
-        <title type="html"><![CDATA[Welcome]]></title>
+        <title type="html"><![CDATA[Welcome to Docusaurus Park]]></title>
         <id>https://jen-drakoj.github.io/blog/welcome</id>
         <link href="https://jen-drakoj.github.io/blog/welcome"/>
-        <updated>2024-01-01T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Docusaurus blogging features are powered by the blog plugin.]]></summary>
-        <content type="html"><![CDATA[<p><a href="https://docusaurus.io/docs/blog" target="_blank" rel="noopener noreferrer">Docusaurus blogging features</a> are powered by the <a href="https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog" target="_blank" rel="noopener noreferrer">blog plugin</a>.</p>
-<p>Simply add Markdown files (or folders) to the <code>blog</code> directory.</p>
-<p>Regular blog authors can be added to <code>authors.yml</code>.</p>
-<p>The blog post date can be extracted from filenames, such as:</p>
+        <updated>2024-01-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Commiting to start a blog can be a bit daunting in terms of maintenance.]]></summary>
+        <content type="html"><![CDATA[<p>Commiting to start a blog can be a bit daunting in terms of maintenance.</p>
+<p>I don't want to use third-party services, such as <strong>WordPress</strong>, <strong>Medium</strong>, <strong>Ghost</strong>, <strong>Blogger</strong>, etc.
+For the most part, they are quite limited (e.g. support for mathematical equations, ease of use).
+Furthermore, you are limited to either go freemium or pay to have access to hosting or features.</p>
+<p>While <strong>WordPress</strong> and <strong>Ghost</strong> can be hosted on personal servers, there's the matter of having to pay for the virtual server.
+This was one of the reasons why I chose <a href="https://pages.github.com/" target="_blank" rel="noopener noreferrer"><strong>GitHub Pages</strong></a> as the means to host this site.</p>
+<p>So, finally, I ended up using <a href="https://docusaurus.io/" target="_blank" rel="noopener noreferrer"><strong>Docusaurus</strong></a> for a several of reasons:</p>
 <ul>
-<li><code>2019-05-30-welcome.md</code></li>
-<li><code>2019-05-30-welcome/index.md</code></li>
+<li>It uses plain text files written using <a href="https://www.markdownguide.org/" target="_blank" rel="noopener noreferrer"><strong>Markdown</strong></a>.</li>
+<li>It generates sites statically, making it lighter than other bloated alternatives, such as <strong>WordPress</strong>.</li>
+<li>It provides support for a blog and other types of pages.</li>
+<li>It is built in (and support creating content) using <a href="https://react.dev/" target="_blank" rel="noopener noreferrer"><strong>React</strong></a>, which I have been interested in experiment with.</li>
+<li>It has out of the box support for <strong>GitHub Pages</strong>.</li>
 </ul>
-<p>A blog post folder can be convenient to co-locate blog post images:</p>
-<p><img loading="lazy" alt="Docusaurus Plushie" src="https://jen-drakoj.github.io/assets/images/docusaurus-plushie-banner-a60f7593abca1e3eef26a9afa244e4fb.jpeg" width="1500" height="500" class="img_ev3q"></p>
-<p>The blog supports tags as well!</p>
-<p><strong>And if you don't want a blog</strong>: just delete this directory, and use <code>blog: false</code> in your Docusaurus config.</p>]]></content>
+<p>I'm sure there are alternatives that can achieve the same, better.
+But, for my needs, <strong>Docusaurus</strong> gets the job done – even if I'm not crazy about its UI.</p>
+<blockquote>
+<p>Dr. Grant, my dear Dr. Sattler, welcome... to Docusaurus Park.</p>
+</blockquote>]]></content>
         <author>
             <name>Jen Drakoj</name>
             <uri>https://github.com/jen-drakoj</uri>
         </author>
-        <category label="misc" term="misc"/>
+        <category label="site" term="site"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Okay, 3, 2, 1. Let's Jam!]]></title>
+        <id>https://jen-drakoj.github.io/blog/lets-jam</id>
+        <link href="https://jen-drakoj.github.io/blog/lets-jam"/>
+        <updated>2024-01-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I have always had difficulties taking notes or writing down my thoughts.]]></summary>
+        <content type="html"><![CDATA[<p>I have always had difficulties taking notes or writing down my thoughts.
+Call it hubris or just plain old laziness.</p>
+<p>But, in an attempt to get the hang of it, I decided to start exercising my writing muscle.</p>
+<p>I'm still not a 100% sure what the scope will be, though.
+I want to share the things that I learn, that I do, and, especially, that bring me happiness.</p>
+<p>This blog will help me record snapshots of me at a given time.
+Meanwhile, the <a href="https://jen-drakoj.github.io/archives"><strong>Archives</strong></a> are meant for things that are atemporal, such as information about projects I'm working on.</p>
+<blockquote>
+<p>I think it's time we blow this scene<br>
+<!-- -->Get everybody and the stuff together<br>
+<!-- -->Okay, three, two, one, let's jam!</p>
+</blockquote>]]></content>
+        <author>
+            <name>Jen Drakoj</name>
+            <uri>https://github.com/jen-drakoj</uri>
+        </author>
+        <category label="site" term="site"/>
     </entry>
 </feed>

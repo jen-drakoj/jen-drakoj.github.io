@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkjen_drakoj=self.webpackChunkjen_drakoj||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"All posts","items":[{"title":"Welcome","permalink":"/blog/welcome","unlisted":false}]}')}}]);
