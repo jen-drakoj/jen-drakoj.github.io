@@ -5,7 +5,7 @@ import type * as Preset from "@docusaurus/preset-classic";
 const organizationName = "jen-drakoj";
 const projectName = "jen-drakoj.github.io";
 
-const title = "The Chronicles of Jen";
+const title = "The Imaginarium of Jen Drakoj";
 
 const config: Config = {
   title: title,
