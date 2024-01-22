@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jen-drakoj.github.io/blog</id>
-    <title>The Chronicles of Jen Blog</title>
+    <title>The Imaginarium of Jen Drakoj Blog</title>
     <updated>2024-01-21T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jen-drakoj.github.io/blog"/>
-    <subtitle>The Chronicles of Jen Blog</subtitle>
+    <subtitle>The Imaginarium of Jen Drakoj Blog</subtitle>
     <icon>https://jen-drakoj.github.io/img/favicon.ico</icon>
     <rights>© 2024</rights>
     <entry>

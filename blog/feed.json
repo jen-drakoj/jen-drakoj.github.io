@@ -1,8 +1,8 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "The Chronicles of Jen Blog",
+    "title": "The Imaginarium of Jen Drakoj Blog",
     "home_page_url": "https://jen-drakoj.github.io/blog",
-    "description": "The Chronicles of Jen Blog",
+    "description": "The Imaginarium of Jen Drakoj Blog",
     "items": [
         {
             "id": "https://jen-drakoj.github.io/blog/welcome",
