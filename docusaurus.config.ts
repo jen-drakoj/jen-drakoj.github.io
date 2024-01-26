@@ -1,6 +1,8 @@
 import { themes as prismThemes } from "prism-react-renderer";
 import type { Config } from "@docusaurus/types";
 import type * as Preset from "@docusaurus/preset-classic";
+import remarkMath from "remark-math";
+import rehypeKatex from "rehype-katex";
 
 const organizationName = "jen-drakoj";
 const projectName = "jen-drakoj.github.io";
@@ -45,6 +47,12 @@ const config: Config = {
           sidebarPath: "./sidebars.ts",
           // Remove this to remove the "edit this page" links.
           //editUrl: `https://github.com/${organizationName}/${projectName}/tree/main/`,
+          remarkPlugins: [remarkMath],
+          rehypePlugins: [rehypeKatex],
+        },
+        pages: {
+          remarkPlugins: [remarkMath],
+          rehypePlugins: [rehypeKatex],
         },
         blog: {
           showReadingTime: true,
@@ -67,6 +75,8 @@ const config: Config = {
               });
             },
           },
+          remarkPlugins: [remarkMath],
+          rehypePlugins: [rehypeKatex],
         },
         theme: {
           customCss: "./src/css/custom.css",
@@ -75,10 +85,22 @@ const config: Config = {
     ],
   ],
 
+  stylesheets: [
+    {
+      href: "https://cdn.jsdelivr.net/npm/katex@0.13.24/dist/katex.min.css",
+      type: "text/css",
+      integrity:
+        "sha384-odtC+0UGzzFL/6PNoE8rX/SPcQDXBJ+uRepguP4QkPCm2LBxH3FA3y+fKSiJ+AmM",
+      crossorigin: "anonymous",
+    },
+  ],
+
   themeConfig: {
     // Replace with your project's social card
     image: "img/docusaurus-social-card.jpg",
     navbar: {
+      // style: "primary",
+      hideOnScroll: true,
       title: title,
       logo: {
         alt: "Jen Drakoj logo",
@@ -95,9 +117,10 @@ const config: Config = {
         { to: "/blog", label: "Blog", position: "left" },
         { to: "/about", label: "About", position: "left" },
         {
-          href: "https://github.com/jen-drakoj",
-          label: "GitHub",
+          href: `https://github.com/${organizationName}`,
           position: "right",
+          className: "header-github-link",
+          "aria-label": "GitHub repository",
         },
       ],
     },
@@ -144,7 +167,29 @@ const config: Config = {
     },
     prism: {
       theme: prismThemes.github,
-      darkTheme: prismThemes.dracula,
+      darkTheme: prismThemes.oneDark,
+      defaultLanguage: "cpp",
+      additionalLanguages: [
+        "powershell",
+        "bash",
+        "csharp",
+        "fsharp",
+        "c",
+        "gml",
+        "git",
+        "latex",
+        "css",
+        "diff",
+        "makefile",
+      ],
+    },
+
+    announcementBar: {
+      id: "announcement_bar",
+      content: "⚠️⚠️⚠️ <b>Under construction</b> ⚠️⚠️⚠️",
+      backgroundColor: "#fafbfc",
+      textColor: "#091E42",
+      isCloseable: false,
     },
   } satisfies Preset.ThemeConfig,
 };
