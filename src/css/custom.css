@@ -4,62 +4,111 @@
  * work well for content-centric websites.
  */
 
+/* More info here:
+ - https://gist.github.com/abhigyantrips/b828ca46b2460c6699c73e0162f6be80
+ - https://theochu.com/docusaurus/styling/
+  */
+
+:root {
+  --ifm-blockquote-border-color: var(--ifm-color-primary);
+  --ifm-blockquote-border-left-width: 4px;
+
+  --ifm-navbar-height: 3rem;
+
+  --ifm-breadcrumb-border-radius: 8px;
+  --ifm-link-hover-decoration: underline;
+  --ifm-code-font-size: 95%;
+}
+
 /* You can override the default Infima variables here. */
 :root {
-  --ifm-color-primary: #2e8555;
-  --ifm-color-primary-dark: #29784c;
-  --ifm-color-primary-darker: #277148;
-  --ifm-color-primary-darkest: #205d3b;
-  --ifm-color-primary-light: #33925d;
-  --ifm-color-primary-lighter: #359962;
-  --ifm-color-primary-lightest: #3cad6e;
-  --ifm-code-font-size: 95%;
-  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
-}
+  --ifm-color-primary: #852e2e; /* #2e8555; */
+  --ifm-color-primary-dark: #782929; /* #29784c; */
+  --ifm-color-primary-darker: #712727; /* #277148; */
+  --ifm-color-primary-darkest: #5d2020; /* #205d3b; */
+  --ifm-color-primary-light: #923333; /* #33925d; */
+  --ifm-color-primary-lighter: #993535; /* #359962; */
+  --ifm-color-primary-lightest: #ad3c3c; /* #3cad6e; */
+  --ifm-color-content: #333333;
 
-/* For readability concerns, you should choose a lighter palette in dark mode. */
-[data-theme="dark"] {
-  --ifm-color-primary: #25c2a0;
-  --ifm-color-primary-dark: #21af90;
-  --ifm-color-primary-darker: #1fa588;
-  --ifm-color-primary-darkest: #1a8870;
-  --ifm-color-primary-light: #29d5b0;
-  --ifm-color-primary-lighter: #32d8b4;
-  --ifm-color-primary-lightest: #4fddbf;
-  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
-}
+  --ifm-background-color: #ecebdf;
+  --ifm-background-surface-color: #c4c3b9;
 
-/* Custom values */
-
-:root {
-  --ifm-color-primary: #852e2e;
-  --ifm-color-primary-dark: #782929;
-  --ifm-color-primary-darker: #712727;
-  --ifm-color-primary-darkest: #5d2020;
-  --ifm-color-primary-light: #923333;
-  --ifm-color-primary-lighter: #993535;
-  --ifm-color-primary-lightest: #ad3c3c;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.6);
 }
 
 [data-theme="dark"] {
-  --ifm-color-primary: #59b9d9;
+  /* Test colors here: https://docusaurus.io/docs/styling-layout */
+
+  /* Blue */
+  /* --ifm-color-primary: #59b9d9;
   --ifm-color-primary-dark: #40afd3;
   --ifm-color-primary-darker: #34a9d0;
   --ifm-color-primary-darkest: #288dae;
   --ifm-color-primary-light: #72c4df;
   --ifm-color-primary-lighter: #7ec9e2;
-  --ifm-color-primary-lightest: #a4d9ea;
+  --ifm-color-primary-lightest: #a4d9ea; */
+
+  /* Green */
+  --ifm-color-primary: #b0dc50;
+  --ifm-color-primary-dark: #a5d737;
+  --ifm-color-primary-darker: #9fd52a;
+  --ifm-color-primary-darkest: #83af23;
+  --ifm-color-primary-light: #bbe169;
+  --ifm-color-primary-lighter: #c1e476;
+  --ifm-color-primary-lightest: #d2eb9b;
+
   --ifm-background-color: #20232a !important;
+  --ifm-background-surface-color: #181a1f !important;
+
+  --docusaurus-highlighted-code-line-bg: rgba(
+    0,
+    0,
+    0,
+    0.3
+  ); /* rgb(74, 49, 70); */
 }
 
-/* If you have a different syntax highlighting theme for dark mode. */
+.footer--dark {
+  /* --ifm-footer-background-color: var(--ifm-color-primary-darkest); */
+  --ifm-footer-color: var(--ifm-footer-link-color);
+  --ifm-footer-link-color: var(--ifm-color-secondary);
+  --ifm-footer-title-color: var(--ifm-color-white);
+}
+
+::-moz-selection {
+  /* Code for Firefox */
+  background: var(--ifm-background-surface-color);
+}
+
+::selection {
+  background: var(--ifm-background-surface-color);
+}
+
 [data-theme="dark"] {
-  /* Color which works with dark mode syntax highlighting theme */
-  --docusaurus-highlighted-code-line-bg: rgb(74, 49, 70);
+  ::-moz-selection {
+    /* Code for Firefox */
+    background: #ffde64; /*var(--ifm-background-surface-color);*/
+    color: #333333;
+  }
+
+  ::selection {
+    background: #ffde64; /*var(--ifm-background-surface-color);*/
+    color: #333333;
+  }
 }
 
+img {
+  border-radius: 8px;
+}
+
+/* @import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,600;0,800;1,400;1,600&display=swap"); */
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&display=swap");
 :root {
-  --ifm-font-family-base: "Segoe UI";
+  /* --ifm-font-family-base: "Poppins"; */
+  --ifm-font-family-base: "Segoe UI", "Open Sans";
+  --ifm-font-family-monospace: "JetBrains Mono";
 }
 
 @media screen and (max-width: 996px) {
@@ -133,13 +182,4 @@ article {
 .navbar .navbar__inner {
   margin: 0 auto;
   max-width: 1920px;
-}
-
-article a:link {
-  font-weight: bold;
-}
-
-article a:hover {
-  box-shadow: inset 0 -2px 0;
-  text-decoration: none;
 }

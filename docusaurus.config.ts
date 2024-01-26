@@ -166,7 +166,7 @@ const config: Config = {
       copyright: `© ${new Date().getFullYear()} – Built with <b>Docusaurus</b>`,
     },
     prism: {
-      theme: prismThemes.github,
+      theme: prismThemes.oneDark,
       darkTheme: prismThemes.oneDark,
       defaultLanguage: "cpp",
       additionalLanguages: [
@@ -184,13 +184,13 @@ const config: Config = {
       ],
     },
 
-    announcementBar: {
-      id: "announcement_bar",
-      content: "⚠️⚠️⚠️ <b>Under construction</b> ⚠️⚠️⚠️",
-      backgroundColor: "#fafbfc",
-      textColor: "#091E42",
-      isCloseable: false,
-    },
+    // announcementBar: {
+    //   id: "announcement_bar",
+    //   content: "⚠️⚠️⚠️ <b>Under construction</b> ⚠️⚠️⚠️",
+    //   backgroundColor: "#fafbfc",
+    //   textColor: "#091E42",
+    //   isCloseable: false,
+    // },
   } satisfies Preset.ThemeConfig,
 };
 
