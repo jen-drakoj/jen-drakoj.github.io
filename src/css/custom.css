@@ -22,17 +22,19 @@
 
 /* You can override the default Infima variables here. */
 :root {
-  --ifm-color-primary: #852e2e; /* #2e8555; */
-  --ifm-color-primary-dark: #782929; /* #29784c; */
-  --ifm-color-primary-darker: #712727; /* #277148; */
-  --ifm-color-primary-darkest: #5d2020; /* #205d3b; */
-  --ifm-color-primary-light: #923333; /* #33925d; */
-  --ifm-color-primary-lighter: #993535; /* #359962; */
-  --ifm-color-primary-lightest: #ad3c3c; /* #3cad6e; */
+  --ifm-color-primary: #940a24;
+  --ifm-color-primary-dark: #782929;
+  --ifm-color-primary-darker: #712727;
+  --ifm-color-primary-darkest: #5d2020;
+  --ifm-color-primary-light: #923333;
+  --ifm-color-primary-lighter: #993535;
+  --ifm-color-primary-lightest: #ad3c3c;
   --ifm-color-content: #333333;
 
-  --ifm-background-color: #ecebdf;
-  --ifm-background-surface-color: #c4c3b9;
+  /* --ifm-background-color: #edeae2; */
+  --ifm-background-color: #ecebdf; /*Original*/
+
+  --ifm-background-surface-color: #d9d7bf;
 
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.6);
 }
@@ -78,24 +80,13 @@
 
 ::-moz-selection {
   /* Code for Firefox */
-  background: var(--ifm-background-surface-color);
+  background: #ffde64;
+  color: #333333;
 }
 
 ::selection {
-  background: var(--ifm-background-surface-color);
-}
-
-[data-theme="dark"] {
-  ::-moz-selection {
-    /* Code for Firefox */
-    background: #ffde64; /*var(--ifm-background-surface-color);*/
-    color: #333333;
-  }
-
-  ::selection {
-    background: #ffde64; /*var(--ifm-background-surface-color);*/
-    color: #333333;
-  }
+  background: #ffde64;
+  color: #333333;
 }
 
 img {
