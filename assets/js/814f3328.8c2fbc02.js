@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkjen_drakoj=self.webpackChunkjen_drakoj||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"All posts","items":[{"title":"Welcome to Docusaurus Park","permalink":"/blog/welcome","unlisted":false},{"title":"Okay, 3, 2, 1. Let\'s Jam!","permalink":"/blog/lets-jam","unlisted":false}]}')}}]);

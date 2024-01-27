@@ -4,33 +4,75 @@
         <title>The Imaginarium of Jen Drakoj Blog</title>
         <link>https://jen-drakoj.github.io/blog</link>
         <description>The Imaginarium of Jen Drakoj Blog</description>
-        <lastBuildDate>Sun, 21 Jan 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Jan 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>© 2024</copyright>
         <item>
+            <title><![CDATA[A fantastical alternative to the Multiverse]]></title>
+            <link>https://jen-drakoj.github.io/blog/fantasic-multiverse</link>
+            <guid>https://jen-drakoj.github.io/blog/fantasic-multiverse</guid>
+            <pubDate>Sat, 27 Jan 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA["A long time ago, in a galaxy far, far away..."]]></description>
+            <content:encoded><![CDATA[<blockquote>
+<p>"A long time ago, in a galaxy far, far away..."</p>
+</blockquote>
+<p>I like the idea of the <em>multiverse</em> in works of fiction, even if I must agree that it is <a href="https://tvtropes.org/pmwiki/pmwiki.php/Main/TheMultiverse" target="_blank" rel="noopener noreferrer">a trope</a> that has been overused in pop culture.
+The possibility of not being restricted to a single canon opens up the door to exploring alternative stories, using familiar faces.</p>
+<p>This is particularly powerful from the point of view of the fans.
+The concept of the multiverse –at least the one used in fiction– technically enables fanfiction and headcanons to be as valid and real as the mainstream canon.
+In a world of infinite possibilities there must surely be room for official and unofficial growth.</p>
+<p>However, this concept is usually married with the idea of being able to <em>explore</em> those other worlds.
+More often than not, the characters are at least aware of the existence of other worlds, similar to theirs but not quite.</p>
+<p>There have been rumors of Disney working on a <strong>What if...?</strong> series for Star Wars, just like they <a href="https://en.wikipedia.org/wiki/What_If...%3F_(TV_series)" target="_blank" rel="noopener noreferrer">previously did with Marvel</a>.
+This is something that made me feel a bit uncomfortable.
+The idea of the multiverse feels... mechanical, all those possibilities existing in parallel, all part of a higher-level canon, which for me kind of robs some of the magic out of it.</p>
+<p>The multiverse also sounds too sci-fi for my taste, whereas I'm on the camp that considers Star Wars as a fantasy with sci-fi elements just to spice it up – not define it!
+Given the current Disney canon, I wouldn't be surprised if this alternate scenarios were justified with the <a href="https://starwars.fandom.com/wiki/World_Between_Worlds" target="_blank" rel="noopener noreferrer">World Between Worlds</a>.</p>
+<p>After doing some thinking, I realized there's a way that would enable to benefit from the idea of the multiverse, while making it feel fantastical instead of sci-fi.</p>
+<p>Star Wars was essentially born out of Joseph Campbell's <a href="https://en.wikipedia.org/wiki/The_Hero_with_a_Thousand_Faces" target="_blank" rel="noopener noreferrer">The Hero with a Thousand Faces</a>, nurtured by the many myths and stories that have accompanied humanity since a long, long time ago.
+And there lies the key to all of this: any story, canon or not, can be seen as an interpretation of an original, fundamental story that unfortunately has been lost to us.</p>
+<p>Myths in our current day and age are incomplete reconstructions of stories told in the past.
+Some are more complete than others, true, but all of them are full of holes and it has been up to future generations to fill in those gaps.
+Moreover, those stories are not even set in stone; each interpretation transforms them (for better or worse) in what has now become a long <a href="https://en.wikipedia.org/wiki/Chinese_whispers" target="_blank" rel="noopener noreferrer">game of telephone</a>.
+The myths as we know them are not the same as they used to be a thousand years ago.</p>
+<p>Armed with this framework, I am enabled to consume things that used to be canon in Star Wars (the Expanded Universe) and things that are the current canon (Sequel Trilogy, et al.), and decide what fits my own vision of what the story is.</p>
+<p>Disney is the curator/loremaster of their own interpretation.
+But we, as fans, are now empowered to embrace or disregard the different interpretations, as a whole or only specific elements of them.
+Our own headcanon is just interpretation of the Star Wars story: one filled with the things that we like.</p>
+<p>With this mindset, there's no more such a thing as an singular official canon or even the possibility of parallel worlds.
+It is not possible to jump from one to another, because each interpretation exists on its own.</p>
+<p>One (unknown) original story, but an infinite number of interpretations.</p>]]></content:encoded>
+            <category>star wars</category>
+            <category>mythology</category>
+            <category>scifi</category>
+            <category>fantasy</category>
+        </item>
+        <item>
             <title><![CDATA[Welcome to Docusaurus Park]]></title>
-            <link>https://jen-drakoj.github.io/blog/welcome</link>
-            <guid>https://jen-drakoj.github.io/blog/welcome</guid>
+            <link>https://jen-drakoj.github.io/blog/docusaurus-park</link>
+            <guid>https://jen-drakoj.github.io/blog/docusaurus-park</guid>
             <pubDate>Sun, 21 Jan 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Commiting to start a blog can be a bit daunting in terms of maintenance.]]></description>
-            <content:encoded><![CDATA[<p>Commiting to start a blog can be a bit daunting in terms of maintenance.</p>
+            <description><![CDATA[Commiting to start a blog can be a bit daunting for several reasons.]]></description>
+            <content:encoded><![CDATA[<p>Commiting to start a blog can be a bit daunting for several reasons.
+One of them being where should that blog live in.</p>
 <p>I don't want to use third-party services, such as <strong>WordPress</strong>, <strong>Medium</strong>, <strong>Ghost</strong>, <strong>Blogger</strong>, etc.
 For the most part, they are quite limited (e.g. support for mathematical equations, ease of use).
-Furthermore, you are limited to either go freemium or pay to have access to hosting or features.</p>
+Furthermore, you must choose to either go freemium or pay in order to have access to hosting or features.</p>
 <p>While <strong>WordPress</strong> and <strong>Ghost</strong> can be hosted on personal servers, there's the matter of having to pay for the virtual server.
-This was one of the reasons why I chose <a href="https://pages.github.com/" target="_blank" rel="noopener noreferrer"><strong>GitHub Pages</strong></a> as the means to host this site.</p>
-<p>So, finally, I ended up using <a href="https://docusaurus.io/" target="_blank" rel="noopener noreferrer"><strong>Docusaurus</strong></a> for a several of reasons:</p>
+This was one of the reasons why I chose <a href="https://pages.github.com/" target="_blank" rel="noopener noreferrer"><strong>GitHub Pages</strong></a> for this site.</p>
+<p>With that matter settled, now I had to decide what platform to use to actually blog.
+I ended up picking <a href="https://docusaurus.io/" target="_blank" rel="noopener noreferrer"><strong>Docusaurus</strong></a> for a several of reasons:</p>
 <ul>
-<li>It uses plain text files written using <a href="https://www.markdownguide.org/" target="_blank" rel="noopener noreferrer"><strong>Markdown</strong></a>.</li>
+<li>It uses plain text files written in <a href="https://www.markdownguide.org/" target="_blank" rel="noopener noreferrer"><strong>Markdown</strong></a>.</li>
 <li>It generates sites statically, making it lighter than other bloated alternatives, such as <strong>WordPress</strong>.</li>
 <li>It provides support for a blog and other types of pages.</li>
-<li>It is built in (and support creating content) using <a href="https://react.dev/" target="_blank" rel="noopener noreferrer"><strong>React</strong></a>, which I have been interested in experiment with.</li>
-<li>It has out of the box support for <strong>GitHub Pages</strong>.</li>
+<li>It is built in (and support creating content) using <a href="https://react.dev/" target="_blank" rel="noopener noreferrer"><strong>React</strong></a>, which I have been interested in experimenting with.</li>
+<li>It has out-of-the-box support for <strong>GitHub Pages</strong>.</li>
 </ul>
 <p>I'm sure there are alternatives that can achieve the same, better.
-But, for my needs, <strong>Docusaurus</strong> gets the job done – even if I'm not crazy about its UI.</p>
+But, for my needs, <strong>Docusaurus</strong> gets the job done – even if I'm not crazy about its UI yet.</p>
 <blockquote>
 <p>Dr. Grant, my dear Dr. Sattler, welcome... to Docusaurus Park.</p>
 </blockquote>]]></content:encoded>

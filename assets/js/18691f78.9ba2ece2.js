@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkjen_drakoj=self.webpackChunkjen_drakoj||[]).push([[851],{2582:s=>{s.exports=JSON.parse('{"label":"scifi","permalink":"/blog/tags/scifi","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);
