@@ -10,8 +10,8 @@
     <rights>© 2024</rights>
     <entry>
         <title type="html"><![CDATA[A fantastical alternative to the Multiverse]]></title>
-        <id>https://jen-drakoj.github.io/blog/fantasic-multiverse</id>
-        <link href="https://jen-drakoj.github.io/blog/fantasic-multiverse"/>
+        <id>https://jen-drakoj.github.io/blog/fantastical-multiverse</id>
+        <link href="https://jen-drakoj.github.io/blog/fantastical-multiverse"/>
         <updated>2024-01-27T00:00:00.000Z</updated>
         <summary type="html"><![CDATA["A long time ago, in a galaxy far, far away..."]]></summary>
         <content type="html"><![CDATA[<blockquote>
@@ -48,9 +48,7 @@ It is not possible to jump from one to another, because each interpretation exis
             <uri>https://github.com/jen-drakoj</uri>
         </author>
         <category label="star wars" term="star wars"/>
-        <category label="mythology" term="mythology"/>
-        <category label="scifi" term="scifi"/>
-        <category label="fantasy" term="fantasy"/>
+        <category label="ideas" term="ideas"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Welcome to Docusaurus Park]]></title>
@@ -86,7 +84,7 @@ But, for my needs, <strong>Docusaurus</strong> gets the job done – even if I'm
         <category label="site" term="site"/>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Okay, 3, 2, 1. Let's Jam!]]></title>
+        <title type="html"><![CDATA[Let's Jam!]]></title>
         <id>https://jen-drakoj.github.io/blog/lets-jam</id>
         <link href="https://jen-drakoj.github.io/blog/lets-jam"/>
         <updated>2024-01-20T00:00:00.000Z</updated>

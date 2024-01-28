@@ -5,9 +5,9 @@
     "description": "The Imaginarium of Jen Drakoj Blog",
     "items": [
         {
-            "id": "https://jen-drakoj.github.io/blog/fantasic-multiverse",
+            "id": "https://jen-drakoj.github.io/blog/fantastical-multiverse",
             "content_html": "<blockquote>\n<p>\"A long time ago, in a galaxy far, far away...\"</p>\n</blockquote>\n<p>I like the idea of the <em>multiverse</em> in works of fiction, even if I must agree that it is <a href=\"https://tvtropes.org/pmwiki/pmwiki.php/Main/TheMultiverse\" target=\"_blank\" rel=\"noopener noreferrer\">a trope</a> that has been overused in pop culture.\nThe possibility of not being restricted to a single canon opens up the door to exploring alternative stories, using familiar faces.</p>\n<p>This is particularly powerful from the point of view of the fans.\nThe concept of the multiverse –at least the one used in fiction– technically enables fanfiction and headcanons to be as valid and real as the mainstream canon.\nIn a world of infinite possibilities there must surely be room for official and unofficial growth.</p>\n<p>However, this concept is usually married with the idea of being able to <em>explore</em> those other worlds.\nMore often than not, the characters are at least aware of the existence of other worlds, similar to theirs but not quite.</p>\n<p>There have been rumors of Disney working on a <strong>What if...?</strong> series for Star Wars, just like they <a href=\"https://en.wikipedia.org/wiki/What_If...%3F_(TV_series)\" target=\"_blank\" rel=\"noopener noreferrer\">previously did with Marvel</a>.\nThis is something that made me feel a bit uncomfortable.\nThe idea of the multiverse feels... mechanical, all those possibilities existing in parallel, all part of a higher-level canon, which for me kind of robs some of the magic out of it.</p>\n<p>The multiverse also sounds too sci-fi for my taste, whereas I'm on the camp that considers Star Wars as a fantasy with sci-fi elements just to spice it up – not define it!\nGiven the current Disney canon, I wouldn't be surprised if this alternate scenarios were justified with the <a href=\"https://starwars.fandom.com/wiki/World_Between_Worlds\" target=\"_blank\" rel=\"noopener noreferrer\">World Between Worlds</a>.</p>\n<p>After doing some thinking, I realized there's a way that would enable to benefit from the idea of the multiverse, while making it feel fantastical instead of sci-fi.</p>\n<p>Star Wars was essentially born out of Joseph Campbell's <a href=\"https://en.wikipedia.org/wiki/The_Hero_with_a_Thousand_Faces\" target=\"_blank\" rel=\"noopener noreferrer\">The Hero with a Thousand Faces</a>, nurtured by the many myths and stories that have accompanied humanity since a long, long time ago.\nAnd there lies the key to all of this: any story, canon or not, can be seen as an interpretation of an original, fundamental story that unfortunately has been lost to us.</p>\n<p>Myths in our current day and age are incomplete reconstructions of stories told in the past.\nSome are more complete than others, true, but all of them are full of holes and it has been up to future generations to fill in those gaps.\nMoreover, those stories are not even set in stone; each interpretation transforms them (for better or worse) in what has now become a long <a href=\"https://en.wikipedia.org/wiki/Chinese_whispers\" target=\"_blank\" rel=\"noopener noreferrer\">game of telephone</a>.\nThe myths as we know them are not the same as they used to be a thousand years ago.</p>\n<p>Armed with this framework, I am enabled to consume things that used to be canon in Star Wars (the Expanded Universe) and things that are the current canon (Sequel Trilogy, et al.), and decide what fits my own vision of what the story is.</p>\n<p>Disney is the curator/loremaster of their own interpretation.\nBut we, as fans, are now empowered to embrace or disregard the different interpretations, as a whole or only specific elements of them.\nOur own headcanon is just interpretation of the Star Wars story: one filled with the things that we like.</p>\n<p>With this mindset, there's no more such a thing as an singular official canon or even the possibility of parallel worlds.\nIt is not possible to jump from one to another, because each interpretation exists on its own.</p>\n<p>One (unknown) original story, but an infinite number of interpretations.</p>",
-            "url": "https://jen-drakoj.github.io/blog/fantasic-multiverse",
+            "url": "https://jen-drakoj.github.io/blog/fantastical-multiverse",
             "title": "A fantastical alternative to the Multiverse",
             "summary": "\"A long time ago, in a galaxy far, far away...\"",
             "date_modified": "2024-01-27T00:00:00.000Z",
@@ -17,9 +17,7 @@
             },
             "tags": [
                 "star wars",
-                "mythology",
-                "scifi",
-                "fantasy"
+                "ideas"
             ]
         },
         {
@@ -41,7 +39,7 @@
             "id": "https://jen-drakoj.github.io/blog/lets-jam",
             "content_html": "<p>I have always had difficulties taking notes or writing down my thoughts.\nCall it hubris or just plain old laziness.</p>\n<p>But, in an attempt to get the hang of it, I decided to start exercising my writing muscle.</p>\n<p>I'm still not a 100% sure what the scope will be, though.\nI want to share the things that I learn, that I do, and, especially, that bring me happiness.</p>\n<p>This blog will help me record snapshots of me at a given time.\nMeanwhile, the <a href=\"https://jen-drakoj.github.io/archives\"><strong>Archives</strong></a> are meant for things that are atemporal, such as information about projects I'm working on.</p>\n<blockquote>\n<p>I think it's time we blow this scene<br>\n<!-- -->Get everybody and the stuff together<br>\n<!-- -->Okay, three, two, one, let's jam!</p>\n</blockquote>",
             "url": "https://jen-drakoj.github.io/blog/lets-jam",
-            "title": "Okay, 3, 2, 1. Let's Jam!",
+            "title": "Let's Jam!",
             "summary": "I have always had difficulties taking notes or writing down my thoughts.",
             "date_modified": "2024-01-20T00:00:00.000Z",
             "author": {
