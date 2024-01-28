@@ -1,6 +1,7 @@
 ---
 slug: lets-jam
-title: Okay, 3, 2, 1. Let's Jam!
+title: Let's Jam!
+date: 2024-01-20
 authors: [jen]
 tags: [site]
 ---

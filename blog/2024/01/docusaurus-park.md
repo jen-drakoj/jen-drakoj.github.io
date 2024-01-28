@@ -1,6 +1,7 @@
 ---
 slug: docusaurus-park
 title: Welcome to Docusaurus Park
+date: 2024-01-21
 authors: [jen]
 tags: [site]
 ---

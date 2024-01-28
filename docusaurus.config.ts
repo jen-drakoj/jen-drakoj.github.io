@@ -49,6 +49,8 @@ const config: Config = {
           //editUrl: `https://github.com/${organizationName}/${projectName}/tree/main/`,
           remarkPlugins: [remarkMath],
           rehypePlugins: [rehypeKatex],
+          breadcrumbs: false,
+          showLastUpdateTime: true,
         },
         pages: {
           remarkPlugins: [remarkMath],
@@ -59,7 +61,7 @@ const config: Config = {
           // Remove this to remove the "edit this page" links.
           //editUrl: `https://github.com/${organizationName}/${projectName}/tree/main/`,
           blogTitle: "The Chronicles of Jen",
-          blogDescription: "A blog about something!",
+          blogDescription: "A collection of random thoughts and ideas",
           blogSidebarTitle: "All posts",
           postsPerPage: "ALL",
           blogSidebarCount: "ALL",
@@ -114,7 +116,7 @@ const config: Config = {
           position: "left",
           label: "Archives",
         },
-        { to: "/blog", label: "Blog", position: "left" },
+        { to: "/blog", label: "Chronicles", position: "left" },
         { to: "/about", label: "About", position: "left" },
         {
           href: `https://github.com/${organizationName}`,

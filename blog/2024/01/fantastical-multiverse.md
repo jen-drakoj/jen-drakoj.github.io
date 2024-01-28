@@ -1,8 +1,10 @@
 ---
-slug: fantasic-multiverse
+slug: fantastical-multiverse
 title: A fantastical alternative to the Multiverse
+date: 2024-01-27
 authors: [jen]
-tags: [star wars, mythology, scifi, fantasy]
+tags: [star wars, ideas]
+keywords: [star wars, mythology, scifi, fantasy, multiverse]
 ---
 
 > "A long time ago, in a galaxy far, far away..."
@@ -13,6 +15,8 @@ The possibility of not being restricted to a single canon opens up the door to e
 This is particularly powerful from the point of view of the fans.
 The concept of the multiverse –at least the one used in fiction– technically enables fanfiction and headcanons to be as valid and real as the mainstream canon.
 In a world of infinite possibilities there must surely be room for official and unofficial growth.
+
+<!-- truncate -->
 
 However, this concept is usually married with the idea of being able to _explore_ those other worlds.
 More often than not, the characters are at least aware of the existence of other worlds, similar to theirs but not quite.
