@@ -117,6 +117,7 @@ const config: Config = {
           label: "Archives",
         },
         { to: "/blog", label: "Chronicles", position: "left" },
+        { to: "/now", label: "Now", position: "left" },
         { to: "/about", label: "About", position: "left" },
         {
           href: `https://github.com/${organizationName}`,
