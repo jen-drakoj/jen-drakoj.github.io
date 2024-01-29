@@ -6,6 +6,10 @@ authors: [jen]
 tags: [site]
 ---
 
+> I think it's time we blow this scene\
+> Get everybody and the stuff together\
+> Okay, three, two, one, let's jam!
+
 I have always had difficulties taking notes or writing down my thoughts.
 Call it hubris or just plain old laziness.
 
@@ -17,6 +21,4 @@ I want to share the things that I learn, that I do, and, especially, that bring 
 This blog will help me record snapshots of me at a given time.
 Meanwhile, the [**Archives**](/archives) are meant for things that are atemporal, such as information about projects I'm working on.
 
-> I think it's time we blow this scene\
-> Get everybody and the stuff together\
-> Okay, three, two, one, let's jam!
+Will this be a great adventure? _The bones tell me... nothing_.
