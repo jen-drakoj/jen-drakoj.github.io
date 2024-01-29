@@ -32,7 +32,8 @@
   --ifm-color-content: #333333;
 
   /* --ifm-background-color: #edeae2; */
-  --ifm-background-color: #ecebdf; /*Original*/
+  /* --ifm-background-color: #ecebdf; */
+  --ifm-background-color: #f1efe1;
 
   --ifm-background-surface-color: #d9d7bf;
 
@@ -93,6 +94,7 @@ img {
   border-radius: 8px;
   object-fit: contain;
   margin: auto;
+  margin-bottom: 1.5em;
   display: block;
 }
 
