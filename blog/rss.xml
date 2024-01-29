@@ -4,11 +4,59 @@
         <title>The Imaginarium of Jen Drakoj Blog</title>
         <link>https://jen-drakoj.github.io/blog</link>
         <description>The Imaginarium of Jen Drakoj Blog</description>
-        <lastBuildDate>Sat, 27 Jan 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Jan 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>© 2024</copyright>
+        <item>
+            <title><![CDATA[Mi lernas Esperanton]]></title>
+            <link>https://jen-drakoj.github.io/blog/mi-lernas-esperanton</link>
+            <guid>https://jen-drakoj.github.io/blog/mi-lernas-esperanton</guid>
+            <pubDate>Mon, 29 Jan 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[A few years ago, I learned about the existence of constructed languages or conlangs_, for short.]]></description>
+            <content:encoded><![CDATA[<p>A few years ago, I learned about the existence of <a href="https://en.wikipedia.org/wiki/Constructed_language" target="_blank" rel="noopener noreferrer">constructed languages</a> or <em>conlangs</em>, for short.
+Shortly after, I discovered <a href="https://en.wikipedia.org/wiki/Esperanto" target="_blank" rel="noopener noreferrer">Esperanto</a>, arguably the most popular and used <em>conlang</em> in the world.</p>
+<p>This is my second attempt at trying to learn the language, after I got sidetracked.</p>
+<p>So far, I have found the language very easy to come back to; Esperanto delivers on the promise of being very easy to learn.</p>
+<p>I'm currently using two tools as part of my learning process: <a href="https://www.duolingo.com/" target="_blank" rel="noopener noreferrer">Duolingo</a> and <a href="https://lernu.net/" target="_blank" rel="noopener noreferrer">Lernu!</a>.</p>
+<p>Out of the two, <strong>Lernu!</strong> is probably the tool I'd recommend the most to anyone trying to learn the language.
+It can be a bit though to get into (it doesn't have the Pavlovian conditioning of Duolingo), but it actually teaches you the rules of the language.</p>
+<p><strong>Duolingo</strong>, on the other hand, is an OK tool to practice but not to learn.
+It also lacks any kind of theoretical material (usually present at the beginning of each unit) and the (audio) quality of the audio exercises is uneven and almost amateurish.</p>
+<p>As such, I learn with Lernu! but practice with Duolingo.</p>
+<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="practicing-esperanto">Practicing Esperanto<a href="https://jen-drakoj.github.io/blog/mi-lernas-esperanton#practicing-esperanto" class="hash-link" aria-label="Direct link to Practicing Esperanto" title="Direct link to Practicing Esperanto">​</a></h2>
+<h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="reading">Reading<a href="https://jen-drakoj.github.io/blog/mi-lernas-esperanton#reading" class="hash-link" aria-label="Direct link to Reading" title="Direct link to Reading">​</a></h3>
+<p>I still haven't commit yet to reading long texts in Esperanto on my own; I have been limiting myself to the exercises provided by the tools I just mentioned.</p>
+<p>However, it is within my plans to read <a href="https://www.goodreads.com/book/show/36951498-zamenhof-autoro-de-esperanto" target="_blank" rel="noopener noreferrer">Zamenhof, Autoro de Esperanto</a>, originally written in English but also available in Esperanto.
+The book recounts the life of Ludovic Zamenhof, the creator of the language.</p>
+<h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="listening">Listening<a href="https://jen-drakoj.github.io/blog/mi-lernas-esperanton#listening" class="hash-link" aria-label="Direct link to Listening" title="Direct link to Listening">​</a></h3>
+<p>Aside from speaking, this is something I'm not much of either.
+However, I recently discovered (although I shouldn't be surprised) that there's actual music made in Esperanto.</p>
+<p>I try to hear it often while working, at least to get used to the way the language sounds.
+Not every song is a winner but, considering how niche the market is for Esperanto music, the surprise comes from from finding great tracks.</p>
+<iframe src="https://open.spotify.com/embed/playlist/78BTQGeN8nJzSjXmeBXixe?utm_source=generator" width="100%" height="152" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="writing">Writing<a href="https://jen-drakoj.github.io/blog/mi-lernas-esperanton#writing" class="hash-link" aria-label="Direct link to Writing" title="Direct link to Writing">​</a></h3>
+<p>One of the reasons why I decided to start writing more was to also practice my Esperanto.
+In the future, I wish to be able to write quality material to help nurture the language in my own way.</p>
+<p>In the meantime, I'm experimenting with using <a href="https://chat.openai.com/" target="_blank" rel="noopener noreferrer">ChatGPT</a> to simulate having someone I can dialogue with and who can correct me.
+So far, the experience hasn't been perfect (I've been only using version 3.5), but it is a great starting point.
+My approach is to have the AI open up with a question, which I would then answer to, and then provide me feedback on my answer and continue with either a follow-up question or a new topic (if relevant).
+This approach allows me to have a coherent conversation, instead of just answering a bunch of unrelated questions.</p>
+<p>Now, there's one thing I need to mention about practice writing Esperanto in a digital medium.</p>
+<p>The language contains a handful of special, non-ASCII characters: <code>ĉ</code>, <code>ĝ</code>, <code>ĥ</code>, <code>ĵ</code>, <code>ŝ</code> and <code>ŭ</code>; some of them unique to the language even.
+This means that most keyboard layouts (especially the standard English ones) won't suffice.</p>
+<p>On Android this posed no problem, I only had to install the Esperanto module for my keyboard of choice, <a href="https://www.microsoft.com/en-us/swiftkey" target="_blank" rel="noopener noreferrer">Swiftkey</a> — ten out of ten, would recommend.</p>
+<p>Windows, on the other hand, is a whole different beast.
+It either requires jumping through hoops, just to add support as if you were trying to write in other mainstream languages, such as French.</p>
+<p>The international English keyboard can be used to input some non-ASCII characters, such as <code>á</code>, <code>å</code> and <code>ã</code>, but it is useless for Esperanto.
+The easiest solution I have found so far is using <a href="https://apps.microsoft.com/detail/XP89DCGQ3K6VLD" target="_blank" rel="noopener noreferrer">Microsoft's PowerToys</a>, which includes a bunch of nifty tools, including one called <strong>Quick Accent</strong>.
+This tool provides an ok-ish way to type accented characters; it isn't perfect (at least not as perfect as using <code>AltGr + &lt;key&gt;</code> on the keyboard), but it is better than the hacks I found online.</p>
+<p>From what I have been able to read so far, the experience is less cumbersome for other OSes, such as GNU/Linux.</p>]]></content:encoded>
+            <category>hobbies</category>
+            <category>learning</category>
+            <category>esperanto</category>
+        </item>
         <item>
             <title><![CDATA[A fantastical alternative to the Multiverse]]></title>
             <link>https://jen-drakoj.github.io/blog/fantastical-multiverse</link>
@@ -81,19 +129,20 @@ But, for my needs, <strong>Docusaurus</strong> gets the job done – even if I'm
             <link>https://jen-drakoj.github.io/blog/lets-jam</link>
             <guid>https://jen-drakoj.github.io/blog/lets-jam</guid>
             <pubDate>Sat, 20 Jan 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[I have always had difficulties taking notes or writing down my thoughts.]]></description>
-            <content:encoded><![CDATA[<p>I have always had difficulties taking notes or writing down my thoughts.
+            <description><![CDATA[I think it's time we blow this scene\]]></description>
+            <content:encoded><![CDATA[<blockquote>
+<p>I think it's time we blow this scene<br>
+<!-- -->Get everybody and the stuff together<br>
+<!-- -->Okay, three, two, one, let's jam!</p>
+</blockquote>
+<p>I have always had difficulties taking notes or writing down my thoughts.
 Call it hubris or just plain old laziness.</p>
 <p>But, in an attempt to get the hang of it, I decided to start exercising my writing muscle.</p>
 <p>I'm still not a 100% sure what the scope will be, though.
 I want to share the things that I learn, that I do, and, especially, that bring me happiness.</p>
 <p>This blog will help me record snapshots of me at a given time.
 Meanwhile, the <a href="https://jen-drakoj.github.io/archives"><strong>Archives</strong></a> are meant for things that are atemporal, such as information about projects I'm working on.</p>
-<blockquote>
-<p>I think it's time we blow this scene<br>
-<!-- -->Get everybody and the stuff together<br>
-<!-- -->Okay, three, two, one, let's jam!</p>
-</blockquote>]]></content:encoded>
+<p>Will this be a great adventure? <em>The bones tell me... nothing</em>.</p>]]></content:encoded>
             <category>site</category>
         </item>
     </channel>
