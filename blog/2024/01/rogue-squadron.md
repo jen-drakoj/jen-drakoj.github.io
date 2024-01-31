@@ -1,7 +1,7 @@
 ---
 slug: rogue-squadron
 title: "Star Wars: X-wing – Rogue Squadron"
-date: 2030-01-31
+date: 2024-01-31
 authors: [jen]
 tags: [hobbies, reading, review, star wars]
 keywords: [x-wing, star wars, rogue squadron, expanded universe, reading]
