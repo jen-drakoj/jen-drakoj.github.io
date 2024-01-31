@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkjen_drakoj=self.webpackChunkjen_drakoj||[]).push([[7815],{8534:e=>{e.exports=JSON.parse('{"permalink":"/blog/tags/star-wars","page":1,"postsPerPage":2,"totalPages":1,"totalCount":2,"blogDescription":"A collection of random thoughts and ideas","blogTitle":"The Chronicles of Jen"}')}}]);

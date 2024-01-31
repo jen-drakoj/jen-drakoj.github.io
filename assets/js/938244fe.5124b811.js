@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkjen_drakoj=self.webpackChunkjen_drakoj||[]).push([[236],{644:a=>{a.exports=JSON.parse('{"label":"star wars","permalink":"/blog/tags/star-wars","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);

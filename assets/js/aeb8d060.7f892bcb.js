@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkjen_drakoj=self.webpackChunkjen_drakoj||[]).push([[8717],{8192:e=>{e.exports=JSON.parse('{"label":"site","permalink":"/blog/tags/site","allTagsPath":"/blog/tags","count":2,"unlisted":false}')}}]);

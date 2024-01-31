@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkjen_drakoj=self.webpackChunkjen_drakoj||[]).push([[51],{118:e=>{e.exports=JSON.parse('{"label":"esperanto","permalink":"/blog/tags/esperanto","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);
