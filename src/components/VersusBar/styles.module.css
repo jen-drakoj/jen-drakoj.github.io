@@ -1,6 +1,6 @@
 .versus {
   margin: auto;
-  margin-bottom: 1.5em;
+  margin-bottom: var(--ifm-leading);
   width: 90%;
   min-width: 128px;
   display: flex;
