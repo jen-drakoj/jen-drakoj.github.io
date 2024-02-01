@@ -50,7 +50,6 @@ export default function YouTube({
         data-testid="youtube"
         title={`youTube-${videoId ? videoId : playlistId}`}
         src={src}
-        // frameBorder="0"
         allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
         allowFullScreen
         width="100%"
