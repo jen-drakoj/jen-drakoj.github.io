@@ -20,6 +20,7 @@
 Despite not being perfect, they read like a plausible continuation to the original trilogy of movies.
 The characters were overall well written and the main villain felt threatening and interesting.</p>
 <p>The <em>Rogue Squadron</em> books, on the other hand, felt more like a chore to read and were cringey quite often.</p>
+<!-- -->
 <p>I grew fond of most of the main characters over the books, which was a bit of a relief.
 <a href="https://starwars.fandom.com/wiki/Corran_Horn/Legends" target="_blank" rel="noopener noreferrer">Corran Horn</a> in particular, started as an unlikeable character but got better starting the second book.</p>
 <p>The villains, however, were a huge disappointment.
@@ -29,7 +30,7 @@ Characters don't speak like normal people, refer multiple times to known charact
 I stopped counting the times wherever characters would say things that were clearly written to be analogues to sayings used in the real world – surprisingly enough, most of them referred to Hutts.</p>
 <p>I was really excited to read these books because I grew up with <a href="https://en.wikipedia.org/wiki/Star_Wars:_Rogue_Squadron_(series)" target="_blank" rel="noopener noreferrer">the Rogue Squadron videogames</a> and I love <em>Star Wars</em> ships.
 I was even more excited coming into the books, having seen a famous fan-made video that was released 2 years ago:</p>
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/urAnFZBx7rE?si=rDgLbw7FjBoDwsRm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="true"></iframe>
+<div class="youtube_0t2M"><iframe data-testid="youtube" title="youTube-urAnFZBx7rE" src="https://www.youtube-nocookie.com/embed/urAnFZBx7rE?&amp;autoplay=false&amp;start=0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="100%" height="360"></iframe></div>
 <p>Now, not everything was bad.
 For once, it was interesting exploring the <em>Star Wars</em> universe with characters other than the main trio.
 As I said, I grew fond of Corran and I'm interested in continuing his adventures once I start reading <a href="https://starwars.fandom.com/wiki/I,_Jedi" target="_blank" rel="noopener noreferrer">I, Jedi</a>.</p>
@@ -45,6 +46,7 @@ As I said, I grew fond of Corran and I'm interested in continuing his adventures
 Nothing interesting happens and most character development had already happened in previous books.</li>
 </ul>
 <p>All in all, these are average books that I'd probably would have either skipped or stopped reading, if they weren't related to <em>Star Wars</em>.</p>]]></content:encoded>
+            <author>jen.drakoj@gmail.com (Jen Drakoj)</author>
             <category>hobbies</category>
             <category>reading</category>
             <category>review</category>
@@ -94,6 +96,7 @@ It either requires jumping through hoops, just to add support as if you were try
 The easiest solution I have found so far is using <a href="https://apps.microsoft.com/detail/XP89DCGQ3K6VLD" target="_blank" rel="noopener noreferrer">Microsoft's PowerToys</a>, which includes a bunch of nifty tools, including one called <strong>Quick Accent</strong>.
 This tool provides an ok-ish way to type accented characters; it isn't perfect (at least not as perfect as using <code>AltGr + &lt;key&gt;</code> on the keyboard), but it is better than the hacks I found online.</p>
 <p>From what I have been able to read so far, the experience is less cumbersome for other OSes, such as GNU/Linux.</p>]]></content:encoded>
+            <author>jen.drakoj@gmail.com (Jen Drakoj)</author>
             <category>hobbies</category>
             <category>learning</category>
             <category>esperanto</category>
@@ -133,6 +136,7 @@ Our own headcanon is just interpretation of the Star Wars story: one filled with
 <p>With this mindset, there's no more such a thing as an singular official canon or even the possibility of parallel worlds.
 It is not possible to jump from one to another, because each interpretation exists on its own.</p>
 <p>One (unknown) original story, but an infinite number of interpretations.</p>]]></content:encoded>
+            <author>jen.drakoj@gmail.com (Jen Drakoj)</author>
             <category>star wars</category>
             <category>ideas</category>
         </item>
@@ -163,6 +167,7 @@ But, for my needs, <strong>Docusaurus</strong> gets the job done – even if I'm
 <blockquote>
 <p>Dr. Grant, my dear Dr. Sattler, welcome... to Docusaurus Park.</p>
 </blockquote>]]></content:encoded>
+            <author>jen.drakoj@gmail.com (Jen Drakoj)</author>
             <category>site</category>
         </item>
         <item>
@@ -184,6 +189,7 @@ I want to share the things that I learn, that I do, and, especially, that bring 
 <p>This blog will help me record snapshots of me at a given time.
 Meanwhile, the <a href="https://jen-drakoj.github.io/archives"><strong>Archives</strong></a> are meant for things that are atemporal, such as information about projects I'm working on.</p>
 <p>Will this be a great adventure? <em>The bones tell me... nothing</em>.</p>]]></content:encoded>
+            <author>jen.drakoj@gmail.com (Jen Drakoj)</author>
             <category>site</category>
         </item>
     </channel>
