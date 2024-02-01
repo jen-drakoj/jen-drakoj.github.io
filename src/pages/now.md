@@ -11,7 +11,7 @@ To learn more about **The Now Page Movement**, visit https://nownownow.com/about
 
 :::
 
-_Latest update: 2024-01-29_
+_Latest update: 2024-02-01_
 
 ---
 
@@ -34,5 +34,4 @@ It's been quite fun so far!
 
 I recently started watching anime and reading manga again and I'm having a blast with [Jujutsu Kaisen](https://en.wikipedia.org/wiki/Jujutsu_Kaisen), [Chainsaw Man](https://en.wikipedia.org/wiki/Chainsaw_Man), and [My Hero Academia](https://en.wikipedia.org/wiki/My_Hero_Academia).
 
-Although I'm behind my original schedule for this year's reading challenge, I have also been reading things other than manga.
-I'm currently close to finishing [The Bacta War](https://starwars.fandom.com/wiki/X-Wing:_The_Bacta_War), the fourth entry in the [X-Wing book series](<https://starwars.fandom.com/wiki/Star_Wars:_X-Wing_(novel_series)>).
+I'm also reading [Zamenhof, Creator of Esperanto](https://www.goodreads.com/book/show/8239843-zamenhof-creator-of-esperanto).
