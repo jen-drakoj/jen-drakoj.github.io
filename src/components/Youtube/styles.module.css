@@ -1,0 +1,7 @@
+.youtube {
+  padding-bottom: var(--ifm-leading);
+}
+
+.youtube iframe {
+  border-radius: 8px;
+}
