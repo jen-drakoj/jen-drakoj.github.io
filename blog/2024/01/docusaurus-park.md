@@ -6,7 +6,7 @@ authors: [jen]
 tags: [site]
 ---
 
-Commiting to start a blog can be a bit daunting for several reasons.
+Committing to start a blog can be a bit daunting for several reasons.
 One of them being where should that blog live in.
 
 I don't want to use third-party services, such as **WordPress**, **Medium**, **Ghost**, **Blogger**, etc.
