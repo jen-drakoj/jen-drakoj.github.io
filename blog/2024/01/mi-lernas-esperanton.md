@@ -3,7 +3,7 @@ slug: mi-lernas-esperanton
 title: Mi lernas Esperanton
 date: 2024-01-29
 authors: [jen]
-tags: [hobbies, learning, esperanto]
+tags: [hobby, learning, esperanto]
 keywords: [esperanto, language, conlang, duolingo, learning]
 hide_table_of_contents: true
 ---
