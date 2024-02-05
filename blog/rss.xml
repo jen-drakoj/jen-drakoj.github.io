@@ -4,11 +4,35 @@
         <title>The Imaginarium of Jen Drakoj Blog</title>
         <link>https://jen-drakoj.github.io/blog</link>
         <description>The Imaginarium of Jen Drakoj Blog</description>
-        <lastBuildDate>Wed, 31 Jan 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Feb 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>© 2024</copyright>
+        <item>
+            <title><![CDATA[Freaky GameDev Stories I]]></title>
+            <link>https://jen-drakoj.github.io/blog/freaky-gamedev-stories-i</link>
+            <guid>https://jen-drakoj.github.io/blog/freaky-gamedev-stories-i</guid>
+            <pubDate>Mon, 05 Feb 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[This is a true story, it happened to a friend of a friend of mine.]]></description>
+            <content:encoded><![CDATA[<p>This is a true story, it happened to a friend of a friend of mine.</p>
+<p>Emily was a videogame developer that had just recently joined a small start-up company after having grown tired of working for much bigger companies.</p>
+<p>Emily was quite happy, finally free from the shackles of such a monolithic and bureaucratic structure.
+And, best of all, Emily was surrounded by talented peers, most of them coming from a similar background as hers.</p>
+<p>She was happy. At least until the day she took a trip to the restroom; a day that still haunts her until this very same day.</p>
+<p>See, the studio head was having a meeting –right in the middle of the office– with the lead game designer of the project regarding one of the core systems of the game.
+They were trying to decide how that system was to be shaped, which basically boiled down to two possible but opposite approaches.
+And, of course, they each defended different ones.</p>
+<p>Anywho, on her way back and as if the result of providence, Emily passed by during the most crucial moment of the meeting.</p>
+<p>The lead game designer, growing weary of the heated discussion, said: "You know, that's why I was hired, to make these kind of decisions!"</p>
+<p>To which the studio head replied with a dry: <strong>"If that's why you think I hired you, then you are wrong."</strong></p>
+<hr>
+<p>It's a true story, it happened to a friend of a friend of mine.</p>
+<p>For Emily, this marked the first time she realized she had started working in a very toxic work environment.</p>
+<p>And the lead designer? Why, of course, he resigned one week later.</p>]]></content:encoded>
+            <author>jen.drakoj@gmail.com (Jen Drakoj)</author>
+            <category>gamedev</category>
+        </item>
         <item>
             <title><![CDATA[Star Wars: X-wing – Rogue Squadron]]></title>
             <link>https://jen-drakoj.github.io/blog/rogue-squadron</link>
