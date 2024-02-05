@@ -1,7 +1,7 @@
 ---
 slug: freaky-gamedev-stories-i
 title: Freaky GameDev Stories I
-date: 2024-02-01
+date: 2024-02-05
 authors: [jen]
 draft: true
 tags: [gamedev]
