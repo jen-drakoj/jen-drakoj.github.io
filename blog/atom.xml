@@ -50,7 +50,7 @@ Nothing interesting happens and most character development had already happened 
             <email>jen.drakoj@gmail.com</email>
             <uri>https://github.com/jen-drakoj</uri>
         </author>
-        <category label="hobbies" term="hobbies"/>
+        <category label="hobby" term="hobby"/>
         <category label="reading" term="reading"/>
         <category label="review" term="review"/>
         <category label="star wars" term="star wars"/>
@@ -104,7 +104,7 @@ This tool provides an ok-ish way to type accented characters; it isn't perfect (
             <email>jen.drakoj@gmail.com</email>
             <uri>https://github.com/jen-drakoj</uri>
         </author>
-        <category label="hobbies" term="hobbies"/>
+        <category label="hobby" term="hobby"/>
         <category label="learning" term="learning"/>
         <category label="esperanto" term="esperanto"/>
     </entry>

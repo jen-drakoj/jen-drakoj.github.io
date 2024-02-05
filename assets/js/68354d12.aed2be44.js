@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkjen_drakoj=self.webpackChunkjen_drakoj||[]).push([[251],{5146:a=>{a.exports=JSON.parse('{"label":"hobby","permalink":"/blog/tags/hobby","allTagsPath":"/blog/tags","count":2,"unlisted":false}')}}]);
