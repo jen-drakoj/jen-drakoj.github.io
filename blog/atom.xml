@@ -2,12 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jen-drakoj.github.io/blog</id>
     <title>The Imaginarium of Jen Drakoj Blog</title>
-    <updated>2024-02-05T00:00:00.000Z</updated>
+    <updated>2024-02-11T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jen-drakoj.github.io/blog"/>
     <subtitle>The Imaginarium of Jen Drakoj Blog</subtitle>
     <icon>https://jen-drakoj.github.io/img/favicon.ico</icon>
     <rights>© 2024</rights>
+    <entry>
+        <title type="html"><![CDATA[Super Smash Bros. Mayhem]]></title>
+        <id>https://jen-drakoj.github.io/blog/super-smash-mayhem</id>
+        <link href="https://jen-drakoj.github.io/blog/super-smash-mayhem"/>
+        <updated>2024-02-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A few months ago, I had an idea for a card game that I'd like to start exploring.]]></summary>
+        <content type="html"><![CDATA[<p>A few months ago, I had an idea for a card game that I'd like to start exploring.</p>
+<p>It'd be an implementation of <a href="https://en.wikipedia.org/wiki/Super_Smash_Bros." target="_blank" rel="noopener noreferrer">Super Smash Bros.</a>, using the rules of <a href="https://boardgamegeek.com/boardgame/260300/dungeon-mayhem" target="_blank" rel="noopener noreferrer">Dungeon Mayhem</a>.</p>
+<p><strong>Dungeon Mayhem</strong> is a <em>Dungeons &amp; Dragons</em> free-for-all, last-man-standing type of game.
+I could not play it without being reminded of <strong>Super Smash Bros.</strong></p>
+<div class="youtube_0t2M"><iframe data-testid="youtube" title="youTube-rIwWCioBpEM" src="https://www.youtube-nocookie.com/embed/rIwWCioBpEM?&amp;autoplay=false&amp;start=0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="100%" height="360"></iframe></div>
+<!-- -->
+<p>There are two mechanics I'd introduce to the formula: <strong>stages</strong> and <strong>items</strong>, both of which are staples of the <em>Super Smash</em> franchise.</p>
+<p>I still haven't thought much about stages.
+Perhaps they would serve as neutral events that could affect players throughout the game.
+To be honest, I haven't given it much thought and saying that the card game must to have them, just because the source material has them, feels wrong.</p>
+<p>On the other hand, items are something I think would add an interesting twist to the game.
+In the original <strong>Dungeon Mayhem</strong>, players have a deck of cards that is unique to each character.
+Items would work as a communal deck of cards, accessible to all players, which would add some more randomness, provide more choices and allow players to have access to abilities their characters might not originally have access to.</p>
+<p>Presentation-wise, I'm a huge fan of the artwork of the original entry of the franchise, which features cartoonish version of the characters.
+A similar style would make a great fit, especially since it resembles (kind-ish) that of the original <strong>Dungeon Mayhem</strong>.</p>
+<p>I'll work on a basic prototype, probably just featuring 2-3 characters and see if this hunch leads anywhere.</p>
+<p>Until then, I keep hearing the announcer yelling:</p>
+<blockquote>
+<p><strong>Super Smash Brothers... Mayheeeeem!</strong></p>
+</blockquote>]]></content>
+        <author>
+            <name>Jen Drakoj</name>
+            <email>jen.drakoj@gmail.com</email>
+            <uri>https://github.com/jen-drakoj</uri>
+        </author>
+        <category label="gamedev" term="gamedev"/>
+        <category label="ideas" term="ideas"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Freaky GameDev Stories I]]></title>
         <id>https://jen-drakoj.github.io/blog/freaky-gamedev-stories-i</id>
